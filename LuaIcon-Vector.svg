@@ -6,7 +6,7 @@ viewBox="0 0 8500 11000"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
-  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
 	<font-face 
 		font-family="Liberation Sans">
 		<font-face-src>
@@ -20,8 +20,10 @@ viewBox="0 0 8500 11000"
   </font>
   <style type="text/css">
    <![CDATA[
-    @font-face { font-family:"Liberation Sans";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    @font-face { font-family:"Liberation Sans";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
     .str0 {stroke:#373435;stroke-width:6.94;stroke-miterlimit:2.61313}
+    .str1 {stroke:#ADADAD;stroke-width:20.83;stroke-miterlimit:2.61313;stroke-dasharray:208.346457 104.173228}
+    .fil3 {fill:none}
     .fil0 {fill:#030380}
     .fil1 {fill:white}
     .fil2 {fill:white}
@@ -31,16 +33,31 @@ viewBox="0 0 8500 11000"
  </defs>
  <g id="C:_x005c_Users_x005c_russh_x005c_Downloads_x005c_luaa.gif_x0020_26">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2704564272192">
-   <ellipse class="fil0 str0" cx="2385.89" cy="4966.18" rx="1072.09" ry="1050.54"/>
-   <ellipse class="fil1 str0" cx="2786.34" cy="4489.97" rx="281.4" ry="292.22"/>
-   <circle class="fil0 str0" cx="3392.43" cy="3883.88" r="286.81"/>
-   <text x="1559.57" y="5493.65"  class="fil2 fnt0">Lua</text>
+  <g id="_3014925622816">
+   <g>
+    <ellipse class="fil0 str0" cx="2385.89" cy="3382.85" rx="1072.09" ry="1050.54"/>
+    <ellipse class="fil1 str0" cx="2786.34" cy="2906.63" rx="281.4" ry="292.22"/>
+    <circle class="fil0 str0" cx="3392.43" cy="2300.54" r="286.81"/>
+    <text x="1559.57" y="3910.31"  class="fil2 fnt0">Lua</text>
+   </g>
+   <path class="fil3 str1" d="M3532.7 2676.84c164.88,237.27 244.04,517.84 225.5,799.31 -47.14,715.89 -700.96,1253.49 -1460.35,1200.78 -759.39,-52.71 -1336.77,-675.79 -1289.63,-1391.67 47.14,-715.89 700.96,-1253.49 1460.35,-1200.78 216.98,15.06 427.7,78.32 614.93,184.61"/>
   </g>
-  <g id="_2704564273104">
-   <ellipse class="fil0 str0" cx="5712.47" cy="6769.93" rx="1072.09" ry="1050.54"/>
-   <ellipse class="fil1 str0" cx="6112.92" cy="6293.71" rx="281.4" ry="292.22"/>
-   <circle class="fil0 str0" cx="6719.01" cy="5687.62" r="286.81"/>
+  <g id="_3014925622672">
+   <ellipse class="fil0 str0" cx="2456.72" cy="6728.69" rx="1072.09" ry="1050.54"/>
+   <ellipse class="fil1 str0" cx="2857.17" cy="6252.47" rx="281.4" ry="292.22"/>
+   <circle class="fil0 str0" cx="3463.26" cy="5646.38" r="286.81"/>
+   <path class="fil3 str1" d="M3603.53 6022.68c164.88,237.27 244.04,517.84 225.5,799.31 -47.14,715.89 -700.96,1253.49 -1460.35,1200.78 -759.39,-52.71 -1336.77,-675.79 -1289.63,-1391.67 47.14,-715.89 700.96,-1253.49 1460.35,-1200.78 216.98,15.06 427.7,78.32 614.93,184.61"/>
+  </g>
+  <g id="_3014925622432">
+   <ellipse class="fil0 str0" cx="5942.14" cy="4682.85" rx="1072.09" ry="1050.54"/>
+   <ellipse class="fil1 str0" cx="6342.59" cy="4206.63" rx="281.4" ry="292.22"/>
+   <circle class="fil0 str0" cx="6948.68" cy="3600.54" r="286.81"/>
+   <text x="5115.82" y="5210.31"  class="fil2 fnt0">Lua</text>
+  </g>
+  <g id="_3014925622288">
+   <ellipse class="fil0 str0" cx="6008.8" cy="8012.02" rx="1072.09" ry="1050.54"/>
+   <ellipse class="fil1 str0" cx="6409.25" cy="7535.81" rx="281.4" ry="292.22"/>
+   <circle class="fil0 str0" cx="7015.34" cy="6929.72" r="286.81"/>
   </g>
  </g>
 </svg>
